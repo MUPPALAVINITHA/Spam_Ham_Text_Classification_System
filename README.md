@@ -23,7 +23,11 @@ During EDA, additional features such as character count, word count, and exclama
 ##### Frequent Words in Spam vs Ham Messages
 - Spam messages contain words like “free”, “call”, “win”, “urgent”.
 - In ham messages, common daily conversation words are more frequent.
-- This helps to easily understand the difference between spam and normal messages
+- This helps to easily understand the difference between spam and normal messages.
+
+  <img width="872" height="480" alt="image" src="https://github.com/user-attachments/assets/968ee987-a759-45e4-adb2-c9842a50f9ff" />
+
+<img width="934" height="480" alt="image" src="https://github.com/user-attachments/assets/d6767305-efc2-4024-b87d-854bcc1531b6" />
 
 
 ##### Message Length Analysis 
